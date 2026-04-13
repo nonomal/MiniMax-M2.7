@@ -77,7 +77,7 @@ On SWE-Pro, M2.7 achieved **56.22%**, matching GPT-5.3-Codex, with even stronger
 
 ## Professional Work
 
-M2.7 achieved an **ELO score of 1495** on GDPval-AA (highest among open-source models), surpassing GPT5.3. It handles Word, Excel, and PPT with high-fidelity multi-round editing, producing editable deliverables. On Toolathon, M2.7 reached **46.3%** accuracy (global top tier), and maintains **97% skill compliance** across 40+ complex skills on MM Claw. On the MM Claw end-to-end benchmark, M2.7 achieved **62.7%**, close to Sonnet 4.6.
+M2.7 achieved an **ELO score of 1495** on GDPval-AA (highest among open-weight models), surpassing GPT5.3. It handles Word, Excel, and PPT with high-fidelity multi-round editing, producing editable deliverables. On Toolathon, M2.7 reached **46.3%** accuracy (global top tier), and maintains **97% skill compliance** across 40+ complex skills on MM Claw. On the MM Claw end-to-end benchmark, M2.7 achieved **62.7%**, close to Sonnet 4.6.
 
 ## Entertainment
 
